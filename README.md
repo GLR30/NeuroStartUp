@@ -8,4 +8,4 @@
 * Высокая скорость поиска
 * Низкая цена
 
-![](C:\Users\31000716\Desktop\NeuroStartUp)
+![](https://github.com/netology-ds-team/git-homeworks/raw/main/1_self/logo.png)
